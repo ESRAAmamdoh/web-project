@@ -1,0 +1,52 @@
+
+/* 
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+h1{
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 500;
+}
+p{
+    font-family: 'Roboto', sans-serif; 
+}
+.main{
+    background-image: url(../img/bg5.avif);
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+.card{
+ background-color: rgb(185, 161, 125);
+ width: 40vh;
+ height: 45vh;
+ box-shadow: 0px 5px 22px 4px rgba(51,44,44,0.75);
+ border-radius: 3rem;
+}
+.bt{
+    width: 150px;
+    height: 70px;
+}
+.shape{
+    background-color: rgb(139, 109, 64);
+    width: 313px;
+    height: 258px;
+    position: absolute;
+    right: 69px;
+    bottom: -103px;
+    transform: skew(-60deg, 23deg);
+}
+#autherqoute{
+    font-weight: 300;
+    font-size: 15px
+
+}
+#qoute{
+    font-size: 20px ;
+    font-weight: 400;
+}
+.pp{
+    font-size: 15px;
+    font-weight: 300;
+}
